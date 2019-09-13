@@ -1,10 +1,10 @@
 # game-development-resources
 
-# Table of Contents
+## Table of Contents
 
 * [Assets/Placeholders](https://github.com/Fribb/game-development-resources#assetsplaceholders)
  
- ## Assets/Placeholders
+ ### Assets/Placeholders
  
 1. [Kenney](http://kenney.nl/assets)
 2. [Reiner`s Tilesets](http://www.reinerstilesets.de)
@@ -39,7 +39,7 @@
 31. [FREE Keyboard and controllers prompts pack](https://opengameart.org/content/free-keyboard-and-controllers-prompts-pack)
 32. [ProductionCrate](https://www.productioncrate.com/)
 
-## Spritesheet Tools
+### Spritesheet Tools
 
 * [1 TexturePacker Favorite 366](http://www.codeandweb.com/texturepacker)
 * [2 Aseprite Favorite 164](http://www.aseprite.org)
@@ -56,7 +56,7 @@
 * [13 Quadtastic by Moritz Neikes 0](https://25a0.itch.io/quadtastic)
 * [14 amakaseev/sprite-sheet-packer 0](https://github.com/amakaseev/sprite-sheet-packer)
 
-## Icons
+### Icons
 
 * [1 Game-Icons Set 1.8k](http://game-icons.net)
 * [2 iconmonstr 561](http://iconmonstr.com)
@@ -78,12 +78,12 @@
 * [18 RPG Awesome 0](https://nagoshiashumari.github.io/Rpg-Awesome/)
 * [19 illustrio 0](https://illustrio.com/)
 
-## Tree Generators
+### Tree Generators
 
 * [1 SpeedTree 707](http://www.speedtree.com/)
 * [2 Tree It 0](http://www.evolved-software.com/treeit/treeit)
 
-## Famous Game Sources
+### Famous Game Sources
 
 * [1 id Software Favorite 0](https://github.com/id-Software)
 * [2 DOOM Favorite 31](https://github.com/id-Software/DOOM)
@@ -94,7 +94,7 @@
 * [7 Collection of computer game source code 0](https://archive.org/details/gamesourcecode)
 * [8 Video Game Preservation 0](https://github.com/videogamepreservation)
 
-## Bitmap Compression
+### Bitmap Compression
 
 * [1 PNGGauntlet 324](http://pnggauntlet.com)
 * [2 TinyPNG 133](https://tinypng.com)
@@ -111,7 +111,7 @@
 * [13 Bulk Resize Photos 0](http://bulkresizephotos.com/)
 * [14 Jpeg.io 0](https://www.jpeg.io/)
 
-## Free Pictures
+### Free Pictures
 
 * [1 Public Domain Pictures 790](http://www.publicdomainpictures.net/?jazyk=EN)
 * [2 Pexels 94](http://pexels.com)
@@ -131,7 +131,7 @@
 * [16 Free Stock Photos 0](https://burst.shopify.com/)
 * [17 Moose Photos 0](http://photos.icons8.com)
 
-## Tile Editors
+### Tile Editors
 
 * [1 Tiled Map Editor Favorite 731](http://www.mapeditor.org)
 * [2 Tiled2Unity Favorite 0](http://www.seanba.com/tiled2unity)
@@ -143,7 +143,7 @@
 * [8 CastleDB 0](http://castledb.org/)
 * [9 Tilemap Tool 0](https://assets.idevgames.co.uk/product/tilemap-tool/)
 
-## Character Generators
+### Character Generators
 
 * [1 Famitsu Chibi 2.5k](http://www.famitsu.com/freegame/tool/chibi/index1.html)
 * [2 Loose Leaf 1.4k](http://www.geocities.jp/kurororo4/looseleaf)
@@ -157,7 +157,7 @@
 * [10 Manuel Bastioni official page 0](http://www.manuelbastioni.com/index.php)
 * [11 Reallusion 0](https://www.reallusion.com/character-creator/)
 
-## RPG Mappers
+### RPG Mappers
 
 * [1 Dave's Mapper 758](http://davesmapper.com/)
 * [2 Dungeon Crafter III 456](http://dungeon-crafter-iii.software.informer.com/)
@@ -170,7 +170,7 @@
 * [9 Fantasy map generator 0](https://github.com/mewo2/terrain)
 * [10 Grid Cartographer 0](http://gridcartographer.com/)
 
-## 2D Normal Mapping
+### 2D Normal Mapping
 
 * [1 Sprite DLight 983](http://2dee-art.blogspot.com/p/sprite-dlight.html)
 * [2 Sprite Lamp 408](http://www.snakehillgames.com/spritelamp/)
@@ -178,14 +178,14 @@
 * [4 BriteSprite 0](https://www.assetstore.unity3d.com/en/#!/content/13823)
 * [5 Laigter by azagaya 0](https://azagaya.itch.io/laigter)
 
-## Vectors
+### Vectors
 
 * [1 Vecteezy 644](http://www.vecteezy.com)
 * [2 vector.me 166](http://vector.me/)
 * [3 Freepik 91](http://www.freepik.com)
 * [4 Public domain vectors 0](http://publicdomainvectors.org)
 
-## Vector Editors
+### Vector Editors
 
 * [1 Inkscape 205](http://inkscape.org/en)
 * [2 Vectr 0](http://vectr.com/)
@@ -196,7 +196,7 @@
 * [7 Adobe Illustrator CC 0](http://www.adobe.com/de/products/illustrator.html)
 * [8 Lunacy, Sketch for Windows 0](https://icons8.com/lunacy)
 
-## Image Browsing
+### Image Browsing
 
 * [1 IrfanView Favorite 136](http://www.irfanview.com)
 * [2 pViewer 52](http://sourceforge.net/projects/picoviewer/)
@@ -206,7 +206,7 @@
 * [6 Nexus Image 0](http://www.xiles.net/)
 * [7 FastStone Image Viewer 0](http://www.faststone.org)
 
-## 2D Animation
+### 2D Animation
 
 * [1 Spriter Favorite 1.2k](https://brashmonkey.com)
 * [2 Anima2D - Unity Favorite 0](https://www.assetstore.unity3d.com/en/#!/content/79840)
@@ -246,7 +246,7 @@
 * [14 FontSprite by AdamStrange 0](https://adamstrange.itch.io/fontsprite)
 * [15 Lospec Pixel Editor 0](https://lospec.com/pixel-editor)
 
-## Image Editors
+### Image Editors
 
 * [1 Adobe Photoshop Favorite 0](http://www.adobe.com/uk/products/photoshop.html?mv=search&s_kwcid=AL!3085!3!88915286330!e!!g!!photoshop&ef_id=VgnAfgAABINlJgNY:20161127011232:s)
 * [2 GIMP Favorite 74](http://www.gimp.org)
@@ -270,7 +270,7 @@
 * [20 IsometrIcon for Photoshop 0](https://www.the-orange-box.com/portfolio_page/free-isometricon/)
 * [21 MediBang Paint 0](https://medibangpaint.com/en/)
 
-## 3D Modeling
+### 3D Modeling
 
 * [1 3ds Max Favorite 129](http://www.autodesk.com/products/3ds-max/overview)
 * [2 Maya Favorite 9](http://www.autodesk.com/products/maya/overview)
@@ -297,7 +297,7 @@
 * [23 Rocket 3F 0](https://rocket3f.com)
 * [24 iClone 0](https://www.reallusion.com/iclone/)
 
-## Terrain Generators
+### Terrain Generators
 
 * [1 Nem's Terrain Generator 878](http://nemesis.thewavelength.net/index.php?p=8)
 * [2 Artifex Terra 3D 390](http://www.artifexterra.com)
@@ -310,7 +310,7 @@
 * [9 MapMagic World Generator 0](https://assetstore.unity.com/packages/tools/terrain/mapmagic-world-generator-56762)
 * [10 Gaea- Quadspinner 0](https://quadspinner.com/gaea/)
 
-## Normals & Textures
+### Normals & Textures
 
 * [1 Substance Designer Favorite 44](http://www.allegorithmic.com/products/substance-designer)
 * [2 ArmorPaint | 3D PBR Texture Painting 0](https://armorpaint.org/)
@@ -335,13 +335,13 @@
 * [21 Marmoset Toolbag 0](https://www.marmoset.co/toolbag)
 * [22 Poliigon 0](https://www.poliigon.com/)
 
-## Browser 3D Publishing
+### Browser 3D Publishing
 
 * [1 Sketchfab Favorite 193](https://sketchfab.com)
 * [2 p3d.in 103](https://p3d.in/)
 * [3 Marmoset Viewer 0](http://www.marmoset.co/viewer)
 
-## 3D Characters
+### 3D Characters
 
 * [1 Makehuman 630](http://www.makehuman.org)
 * [2 DAZ 3D 163](https://www.daz3d.com/home)
@@ -355,7 +355,7 @@
 * [10 Poser 0](https://my.smithmicro.com/poser-3d-animation-software.html)
 * [11 VRoid Studio, a free software to create 3D characters! #VRoid 0](https://www.pixivision.net/en/a/3681)
 
-## Projection Texturing
+### Projection Texturing
 
 * [1 Pixexix 321](http://pixexix.sophiehoulden.com)
 * [2 Substance Painter 76](http://www.allegorithmic.com/products/substance-painter)
@@ -364,7 +364,7 @@
 * [5 Autodesk Mudbox 0](https://www.autodesk.com/products/mudbox/overview)
 * [6 3DCoat 0](https://3dcoat.com/home/)
 
-## 3D Tree Generators
+### 3D Tree Generators
 
 * [1 Arbaro 306](http://arbaro.sourceforge.net/)
 * [2 ngPlant 162](http://ngplant.sourceforge.net/)
@@ -373,7 +373,7 @@
 * [5 PlantFactory 0](http://www.plantfactory-tech.com/)
 * [6 Ivy Generator (GuruWare) 0](http://www.guruware.at/main/)
 
-## 3D Sculpting
+### 3D Sculpting
 
 * [1 Sculptris 286](http://pixologic.com/sculptris)
 * [2 Mudbox 73](http://www.autodesk.com/products/mudbox/buy)
@@ -384,7 +384,7 @@
 * [7 Polybrush 0](http://polybrush.org/)
 * [8 A WebGL sculpting app 0](https://stephaneginier.com/sculptgl/)
 
-## 3D Search Engine
+### 3D Search Engine
 
 * [1 Poly 0](https://poly.google.com/)
 * [2 Yobi3D 352](http://www.yobi3d.com)
@@ -396,7 +396,7 @@
 * [8 Archive3d 0](http://archive3d.net)
 * [9 UE4Asset 0](https://ue4asset.com/)
 
-## Blueprints & Reference
+### Blueprints & Reference
 
 * [1 The-Blueprints 467](http://www.the-blueprints.com/)
 * [2 Gary's Place 151](http://www.inetres.com/)
@@ -405,7 +405,7 @@
 * [5 PureRef 15](http://www.pureref.com/)
 * [6 Kuadro 0](http://kruelgames.com/tools/kuadro/)
 
-## 3D Community & Showcase
+### 3D Community & Showcase
 
 * [1 ArtStation 122](https://www.artstation.com/)
 * [2 Polycount Forum 57](http://www.polycount.com/forum)
@@ -439,7 +439,7 @@
 * [19 Cakewalk 0](https://www.bandlab.com/products/cakewalk)
 * [20 SoundBridge 0](https://soundbridge.io/)
 
-## Chiptune Editors
+### Chiptune Editors
 
 * [1 Distractionware l Bosca Ceoil Favorite 11](http://boscaceoil.net/)
 * [2 pxtone 369](http://studiopixel.sakura.ne.jp/pxtone/)
@@ -453,7 +453,7 @@
 * [10 LMMS 0](https://lmms.io)
 * [11 ModBox 3.1 0](https://moddedbeepbox.github.io/3.0/#6n41z0u0s0kbl00e03t7m0x0y0|0D0H0a7g0fj7i0r1o43210T0w1f1d1c0q0G0B0h0v0T0w1f1d1c0q0G0B0h0v0T0w1f1d1c0q0G0B0h0v0T0w1f1d1c0q0G0B0h0v0T2w1d1v0b4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4gp170000000)
 
-## Free Music
+### Free Music
 
 * [1 incompetech Favorite 1k](http://incompetech.com)
 * [2 Icons8 0](https://icons8.com/music)
@@ -480,7 +480,7 @@
 * [23 Songs from cafofo 0](http://www.estudiocafofo.com/freebie)
 * [24 Filmstro 0](https://filmstro.com/music)
 
-## Audio Editors
+### Audio Editors
 
 * [1 Audacity Favorite 90](http://audacity.sourceforge.net)
 * [2 ocenaudio 37](http://www.ocenaudio.com.br)
@@ -490,7 +490,7 @@
 * [6 Fabric 0](https://www.tazman-audio.co.uk/fabric)
 * [7 FMOD 0](https://www.fmod.com/)
 
-## 2D Game Engines
+### 2D Game Engines
 
 * [1 Unity Favorite 172](http://unity3d.com)
 * [2 libgdx 463](http://libgdx.badlogicgames.com)
@@ -549,7 +549,7 @@
 * [55 Pyxel: retro game engine for Python 0](https://github.com/kitao/pyxel)
 * [56 PICO-8 Fantasy Console 0](https://www.lexaloffle.com/pico-8.php)
 
-## Music Creation Tools
+### Music Creation Tools
 
 * [1 Audiotool 424](http://www.audiotool.com/app)
 * [2 AudioSauna 168](http://www.audiosauna.com)
@@ -569,7 +569,7 @@
 * [16 Generative Musical Sequencer 0](http://earslap.com/page/otomata.html)
 * [17 MuseScore 0](https://musescore.org/)
 
-## Sound Effects
+### Sound Effects
 
 * [1 Bfxr Favorite 495](http://www.bfxr.net)
 * [2 Freesound Favorite 842](http://www.freesound.org)
@@ -598,7 +598,7 @@
 * [25 ToneDock 0](https://www.tonedock.com)
 * [26 BOOM Library 0](https://www.boomlibrary.com/)
 
-## Unity
+### Unity
 
 * [1 Unity3D Open Source Search Engine 0](http://unitylist.com/)
 * [2 Unity C# Tutorials 0](http://catlikecoding.com/unity/tutorials)
@@ -610,7 +610,7 @@
 * [8 Game-Eye-2D 0](https://github.com/JasonHein/Game-Eye-2D)
 * [9 The #1 site for learning Unity3D (free video tuts) 0](https://unity3d.college/)
 
-## Voice Acting
+### Voice Acting
 
 * [1 Voice Acting Alliance 597](http://voiceactingalliance.com/board/forum.php)
 * [2 Voicebunny 234](http://voicebunny.com)
@@ -623,7 +623,7 @@
 * [9 Vananvoiceover 0](http://vananvoiceover.com)
 * [10 VOPlanet 0](https://www.voplanet.com)
 
-## 3D Game Engines
+### 3D Game Engines
 
 * [1 Unity Favorite 75](http://unity3d.com)
 * [2 Unreal Engine 4 Favorite 73](https://www.unrealengine.com)
@@ -663,7 +663,7 @@
 * [36 Amethyst 0](https://www.amethyst.rs/)
 * [37 Heaps 0](https://heaps.io/)
 
-## Tiled Texture Tools
+### Tiled Texture Tools
 
 * [1 Filter Forge 255](http://www.filterforge.com)
 * [2 PixPlant 170](http://www.pixplant.com)
@@ -675,7 +675,7 @@
 * [8 Texture Exporter 12](http://www.unorthodoxentertainment.com/texture-exporter/)
 * [9 Seamless Texture Generator for Photoshop 0](http://www.the-orange-box.com/portfolio_page/free-seamless-texture/)
 
-## Online Code Editors
+### Online Code Editors
 
 * [1 collabedit 208](http://collabedit.com/)
 * [2 Gists 68](https://gist.github.com/)
@@ -686,13 +686,13 @@
 * [7 Shadertoy 0](https://www.shadertoy.com)
 * [8 repl.it 0](https://repl.it/)
 
-## Control Mapping
+### Control Mapping
 
 * [1 JoyToKey Favorite 92](http://joytokey.net/en/)
 * [2 Xpadder 48](http://www.xpadder.com/)
 * [3 AntiMicro 0](https://github.com/AntiMicro/antimicro/releases)
 
-## Offline Code Editors
+### Offline Code Editors
 
 * [1 Sublime Text Favorite 115](http://www.sublimetext.com)
 * [2 Atom 112](https://atom.io)
@@ -711,7 +711,7 @@
 * [15 Jet Brains 0](https://www.jetbrains.com/products.html?fromMenu#type=ide)
 * [16 Neovim 0](https://neovim.io/)
 
-## Simple Game Mechanics
+### Simple Game Mechanics
 
 * [1 ABA Games 49](http://www.asahi-net.or.jp/~cs8k-cyu/blog/2014/12/12/games-in-2014/)
 * [2 Orisinal 917](http://www.ferryhalim.com/orisinal/)
@@ -722,7 +722,7 @@
 * [7 SOOMLA 65](http://soom.la)
 * [8 Squidi 300 Mechanics 0](http://www.squidi.net/three/)
 
-## Visual Scripting
+### Visual Scripting
 
 * [1 uScript Visual Scripting Tool 133](https://www.assetstore.unity3d.com/en/#!/content/1808)
 * [2 Blueprints Visual Scripting 54](https://docs.unrealengine.com/latest/INT/Engine/Blueprints/index.html)
@@ -735,14 +735,14 @@
 * [9 Blox Visual Scripting 0](https://www.assetstore.unity3d.com/en/#!/content/62473)
 * [10 Bolt 0](https://www.assetstore.unity3d.com/en/#!/content/87491)
 
-## Games & Tools
+### Games & Tools
 
 * [1 35 Gamification Mechanics 710](http://www.epicwinblog.net/2013/10/the-35-gamification-mechanics-toolkit.html)
 * [2 Life is a game 341](http://www.gameseeds.net/)
 * [3 Art Of Game Design 346](https://play.google.com/store/apps/details?id=com.schellgames.deckoflenses&hl=en)
 * [4 Game Mechanics Flash Cards 193](http://www.scribd.com/doc/40500617/Print-Your-Own-Version-of-SCVNGR-s-Game-Mechanics-Flash-Cards)
 
-## Seamless Patterns
+### Seamless Patterns
 
 * [1 Subtle Patterns Favorite 463](http://subtlepatterns.com)
 * [2 Colourlovers 126](http://www.colourlovers.com/seamless)
@@ -750,7 +750,7 @@
 * [4 DinPattern 0](http://www.dinpattern.com/)
 * [5 Patterncooler 0](https://www.patterncooler.com/)
 
-## Textures
+### Textures
 
 * [1 Textures.com (Former CG Textures) Favorite 177](http://www.textures.com/)
 * [2 CG Textures Favorite 226](http://www.cgtextures.com)
@@ -766,7 +766,7 @@
 * [12 Free Seamless Textures 0](https://sites.google.com/site/freeseamlesstextures/home)
 * [13 PlainTextures 12](http://www.plaintextures.com)
 
-## Game Design Documents
+### Game Design Documents
 
 * [1 Dundoc 711](http://www.dundoc.com/)
 * [2 Game Design Document Template R2 634](https://docs.google.com/document/d/1V-fLxDs-qHJKQ6YYXmWGjy0V8jnaW9cFiEGixCrXDx8/edit?usp=sharing)
@@ -775,7 +775,7 @@
 * [5 Game Design Document (GDD) Template by vitalzigns 0](https://vitalzigns.itch.io/gdd)
 * [6 1-Page Game Design Document (GDD) Template by vitalzigns 0](https://vitalzigns.itch.io/1-page-gdd)
 
-## Control API
+### Control API
 
 * [1 Gamepad 121](http://www.w3.org/TR/gamepad/)
 * [2 PxGamepad 7](https://github.com/thinkpixellab/PxGamepad)
@@ -783,7 +783,7 @@
 * [4 Leap Motion Developers 10](https://developer.leapmotion.com/)
 * [5 Gallant Games 0](http://www.gallantgames.com/pages/incontrol-introduction)
 
-## Lectures,Talks & Articles
+### Lectures,Talks & Articles
 
 * [1 GDC Vault Favorite 105](http://www.gdcvault.com/free)
 * [2 Warren Spector Lectures 75](https://www.youtube.com/user/gamedevthings/videos)
@@ -794,7 +794,7 @@
 * [7 Narrative in Videogames 0](http://thegamedesignforum.com/features/narrative_in_games.html)
 * [8 Game Maker's Toolkit 0](https://www.youtube.com/user/McBacon1337)
 
-## Game Design
+### Game Design
 
 * [1 Tiny Game Design Tool 624](http://tinygdtool.urustar.net/)
 * [2 Game Design Tutorials 392](https://game-design-tutorials.zeef.com/nathan.lovato)
@@ -804,11 +804,11 @@
 * [6 80.lv 0](http://80.lv/)
 * [7 iThrive Games Foundation 0](http://ithrivegames.org/)
 
-## Control Emulation
+### Control Emulation
 
 * [1 x360ce 56](https://code.google.com/p/x360ce/)
 
-## Web Based Meeting
+### Web Based Meeting
 
 * [1 Discord Favorite 0](http://discord.gg)
 * [2 Slack Favorite 0](https://slack.com)
@@ -820,7 +820,7 @@
 * [8 Game-Jam-Talk/Lobby 0](https://gitter.im/Game-Jam-Talk/Lobby)
 * [9 Dead Simple Screen Sharing 0](https://www.deadsimplescreensharing.com/)
 
-## Word Brainstorm
+### Word Brainstorm
 
 * [1 OneLook Reverse Dictionary 216](http://www.onelook.com/reverse-dictionary.shtml)
 * [2 Onym 0](https://onym.co/)
@@ -831,7 +831,7 @@
 * [7 Writing and RPG-Related Generators 16](http://chaoticshiny.com/index.php)
 * [8 Litscape 0](http://www.litscape.com/word_tools/contains_only.php)
 
-## Interactive Non-Linear Storytelling
+### Interactive Non-Linear Storytelling
 
 * [1 Twine Favorite 755](http://twinery.org)
 * [2 Fungus Favorite 359](http://fungusgames.com/)
@@ -849,7 +849,7 @@
 * [14 Roleplay / Text Adventure Engine by liamtwose 0](https://liamtwose.itch.io/adlengine)
 * [15 articy:draft 0](https://www.articy.com/en/)
 
-## Inspiration
+### Inspiration
 
 * [1 Dribbble 0](https://dribbble.com)
 * [2 GameLogos 0](http://gamelogos.tumblr.com/)
@@ -863,7 +863,7 @@
 * [10 Gavin Bird 22](https://gavinbird.artstation.com/)
 * [11 Creative Uncut 10](http://www.creativeuncut.com/)
 
-## Mind Maps
+### Mind Maps
 
 * [1 bubbl.us 316](http://bubbl.us/)
 * [2 XMind 124](https://www.xmind.net)
@@ -879,7 +879,7 @@
 * [12 Sligrid 0](https://sligrid.com)
 * [13 Imindq.com 0](https://www.imindq.com/)
 
-## Script Writing
+### Script Writing
 
 * [1 Celtx Favorite 466](https://www.celtx.com/index.html)
 * [2 Plotbot 270](http://www.plotbot.com/)
@@ -888,7 +888,7 @@
 * [5 Amazon Storywriter 13](https://storywriter.amazon.com)
 * [6 Scrivener 5](https://www.literatureandlatte.com/scrivener.php)
 
-## Post-Mortems
+### Post-Mortems
 
 * [1 PixelProspector.com 192](http://www.pixelprospector.com/the-big-list-of-postmortems/)
 * [2 10 seminal game postmortems 66](http://www.gamasutra.com/view/news/238773/10_seminal_game_postmortems_every_developer_should_read.php)
@@ -896,7 +896,7 @@
 * [4 Stanley Parable Launch Postmortem 16](http://www.gamasutra.com/blogs/DaveyWreden/20131028/203429/A_postmortem_on_the_launch_of_the_Stanley_Parable.php)
 * [5 Why PWN will be my last iOS game 2](http://www.pockettactics.com/news/erik-asmussen-pwn-combat-hacking-post-mortem/)
 
-## Game Idea Generators
+### Game Idea Generators
 
 * [1 Video game generator 446](http://orteil.dashnet.org/gamegen)
 * [2 Ludocraft 322](http://www.ludocraft.com/gigster/)
@@ -907,7 +907,7 @@
 * [7 MakeGame by Spencer 0](https://stuffbyspencer.itch.io/makegame)
 * [8 Idea Generator by FlyingFlambe 0](https://flyingmeta.itch.io/conception)
 
-## Fonts
+### Fonts
 
 * [1 Font Squirrel Favorite 377](http://www.fontsquirrel.com)
 * [2 Font Library 88](http://www.openfontlibrary.org/)
@@ -920,7 +920,7 @@
 * [9 Pixel Font Gallery 2](http://www.pentacom.jp/pentacom/bitfontmaker2/gallery/)
 * [10 The Ultimate Oldschool PC Font Pack 0](http://int10h.org/oldschool-pc-fonts/)
 
-## Game Mechanics
+### Game Mechanics
 
 * [1 Red Blob Algorithm Explorations 153](http://www.redblobgames.com/)
 * [2 Game Mechanic Explorer 822](http://gamemechanicexplorer.com)
@@ -932,7 +932,7 @@
 * [8 A list of game design youtubers 0](https://docs.google.com/document/d/1fFx9Q80HHjwbgSfidFGOW3NQDt8PX3wkgokJvEEBuns/edit)
 * [9 Machinations 0](https://www.machinations.io/)
 
-## Books
+### Books
 
 * [1 The Art of Game Design Favorite 250](http://www.amazon.com/The-Art-Game-Design-lenses/dp/0123694965)
 * [2 Challenges for Game Designers Favorite 96](http://www.amazon.com/Challenges-Game-Designers-Brenda-Brathwaite/dp/158450580X)
@@ -943,7 +943,7 @@
 * [7 100 Principles of Game Design 44](http://www.amazon.com/Principles-Game-Design-Wendy-Despain/dp/0321902491/ref=sr_1_1?ie=UTF8&qid=1407948551&sr=8-1&keywords=100+principles+of+game+design)
 * [8 DevFreeBooks 0](https://devfreebooks.github.io)
 * [9 Indie Game: The Movie 30](http://buy.indiegamethemovie.com)
-* [10 GameDev Movies 36](http://www.gog.com/movies##sort=bestselling&page=1)
+* [10 GameDev Movies 36](http://www.gog.com/movies###sort=bestselling&page=1)
 * [11 Game Developer Magazine Archive 25](http://www.gdcvault.com/gdmag)
 * [12 An Architectural Approach to Level Design 3](http://www.amazon.com/An-Architectural-Approach-Level-Design/dp/1466585412)
 * [13 Game Programming Patterns 7](http://gameprogrammingpatterns.com)
@@ -977,12 +977,12 @@
 * [41 Unity in Action 1](https://www.manning.com/books/unity-in-action)
 * [42 Learning Unreal® Engine iOS 0](https://www.packtpub.com/game-development/learning-unreal-engine-ios-game-development)
 
-## UI Elements
+### UI Elements
 
 * [1 365psd 589](http://365psd.com)
 * [2 Sketch App Sources 141](http://www.sketchappsources.com)
 
-## Color
+### Color
 
 * [1 COLOURlovers Favorite 251](http://www.colourlovers.com)
 * [2 Adobe Color CC Favorite 62](https://kuler.adobe.com)
@@ -1001,7 +1001,7 @@
 * [15 CChimera 0](http://saint11.org/tools/cchimera/index.html)
 * [16 Color Picker From Image 0](https://image-color.com)
 
-## Screenshot Tools
+### Screenshot Tools
 
 * [1 ShareX Favorite 96](http://getsharex.com/)
 * [2 Puush 57](http://puush.me)
@@ -1012,7 +1012,7 @@
 * [7 Lightshot 0](http://prnt.sc)
 * [8 ScreenToGif 0](http://www.screentogif.com/)
 
-## Project Management Systems
+### Project Management Systems
 
 * [1 Trello Favorite 258](https://trello.com)
 * [2 Asana 90](https://asana.com)
@@ -1041,7 +1041,7 @@
 * [25 Favro 0](https://www.favro.com/)
 * [26 Notion 0](https://www.notion.so/)
 
-## UI Reference
+### UI Reference
 
 * [1 Videogameinterfaces 0](http://videogameinterfaces.com/)
 * [2 User interfaces from movies, tv, video games and more 0](https://www.noteloop.com/kit/fui/)
@@ -1049,7 +1049,7 @@
 * [4 Video game user interface design 0](http://devmag.org.za/2011/02/02/video-game-user-interface-design-diegesis-theory/)
 * [5 Science Fiction Interfaces 0](http://sciencefictioninterfaces.tumblr.com/)
 
-## Video Compression
+### Video Compression
 
 * [1 Virtualdub 39](http://www.virtualdub.org/)
 * [2 Handbrake 18](https://handbrake.fr)
@@ -1057,7 +1057,7 @@
 * [4 MeGUI 9](http://sourceforge.net/projects/megui/)
 * [5 FFmpeg 0](https://ffmpeg.org)
 
-## Mockups
+### Mockups
 
 * [1 Balsamiq Favorite 450](https://balsamiq.com)
 * [2 Sketch 3 Favorite 44](http://bohemiancoding.com/sketch)
@@ -1071,7 +1071,7 @@
 * [10 Adobe XD 0](https://www.adobe.com/nl/products/xd.html)
 * [11 Figma 0](https://www.figma.com/)
 
-## Code Management
+### Code Management
 
 * [1 Github 43](https://github.com)
 * [2 Bugzilla 36](https://www.bugzilla.org/)
@@ -1090,7 +1090,7 @@
 * [3 Mazwai 19](http://www.mazwai.com/)
 * [4 Mixkit 0](https://mixkit.co)
 
-## Font Creation
+### Font Creation
 
 * [1 Fontstruct 244](http://fontstruct.com/)
 * [2 NFG's Arcade Font Tool 68](http://nfggames.com/games/fontmaker/)
@@ -1105,7 +1105,7 @@
 * [11 Prototypo 0](https://www.prototypo.io/)
 * [12 Glyphr Studio 0](https://www.glyphrstudio.com)
 
-## Video Editors
+### Video Editors
 
 * [1 Hitfilm Favorite 0](https://hitfilm.com/express)
 * [2 Adobe Premiere Pro CC Favorite 0](http://www.adobe.com/products/premiere.html)
@@ -1118,13 +1118,13 @@
 * [9 blender.org 0](https://www.blender.org/)
 * [10 Final Cut Pro 0](https://www.apple.com/final-cut-pro)
 
-## Pitches
+### Pitches
 
 * [1 Game Pitches 367](http://www.gamepitches.com/)
 * [2 Slidebean 0](https://slidebean.com/pitch-deck-template/)
 * [3 The Best Pitch Deck Examples from Real Startups 0](https://attach.io/startup-pitch-decks/)
 
-## Cloud Storage
+### Cloud Storage
 
 * [1 Dropbox Favorite 10](https://www.dropbox.com)
 * [2 Google Drive 8](https://www.google.com/drive)
@@ -1133,7 +1133,7 @@
 * [5 pCloud 2](http://www.pcloud.com)
 * [6 MEGA 0](http://mega.nz)
 
-## Screen Recording & Capture
+### Screen Recording & Capture
 
 * [1 ScreenToGif Favorite 0](http://www.screentogif.com/)
 * [2 chronolapse 53](https://code.google.com/p/chronolapse/)
@@ -1152,7 +1152,7 @@
 * [15 keijiro/ImageSequenceOut 0](https://github.com/keijiro/ImageSequenceOut)
 * [16 Mirillis Action! - Screen Recorder 0](https://mirillis.com/en/products/action.html)
 
-## PR
+### PR
 
 * [1 presskit() 221](http://dopresskit.com)
 * [2 Promoter 0](https://www.promoterapp.com/)
@@ -1170,7 +1170,7 @@
 * [14 Game Drive 0](http://www.game-drive.nl)
 * [15 Keymailer 0](https://www.keymailer.co/)
 
-## File Transfer
+### File Transfer
 
 * [1 WeTransfer 15](https://www.wetransfer.com)
 * [2 Filedropper 7](http://www.filedropper.com)
@@ -1178,7 +1178,7 @@
 * [4 JustBeamIt 0](http://justbeamit.com)
 * [5 transfer.sh 0](https://transfer.sh)
 
-## Website Builder
+### Website Builder
 
 * [1 Webflow 114](https://webflow.com)
 * [2 ThemeForest 32](http://themeforest.net/search?utf8=%E2%9C%93&term=game&view=list&sort=&date=&category=wordpress%2Ftechnology&price_min=&price_max=&sales=&rating_min=)
@@ -1195,7 +1195,7 @@
 * [13 Jekyll 0](https://jekyllrb.com/)
 * [14 Pinegrow Web Editor 0](https://pinegrow.com/)
 
-## TeamComm
+### TeamComm
 
 * [1 Slack Favorite 168](https://slack.com)
 * [2 Discord Favorite 2](https://discordapp.com/)
@@ -1212,7 +1212,7 @@
 * [13 Twistapp 0](https://twistapp.com/home)
 * [14 Use-together 0](http://www.use-together.com/)
 
-## File Sync
+### File Sync
 
 * [1 Dropbox 4](https://www.dropbox.com)
 * [2 Google Drive 3](http://drive.google.com)
@@ -1223,14 +1223,14 @@
 * [7 pCloud 3](http://www.pcloud.com)
 * [8 Nextcloud 0](https://nextcloud.com/)
 
-## Bug Tracking
+### Bug Tracking
 
 * [1 The Trac Project 97](http://trac.edgewall.org)
 * [2 Mantis Bug Tracker 13](https://www.mantisbt.org/)
 * [3 Bugzilla 12](https://www.bugzilla.org/)
 * [4 Jira 0](https://www.atlassian.com/software/jira)
 
-## Market Analysis
+### Market Analysis
 
 * [1 App Annie 42](https://www.appannie.com/)
 * [2 apptrace 23](http://www.apptrace.com)
@@ -1248,7 +1248,7 @@
 * [14 SteamSpy 2](http://steamspy.com/)
 * [15 SteamDB 0](http://steamdb.info)
 
-## Game Metrics
+### Game Metrics
 
 * [1 Gameanalytics 189](http://www.gameanalytics.com)
 * [2 Flurry 7](http://www.flurry.com)
@@ -1257,13 +1257,13 @@
 * [5 Smartlook 0](http://www.smartlook.com)
 * [6 Qualitative Analytics for Native Mobile Apps 0](https://www.smartlook.com/features/mobile)
 
-## Timezone Converter
+### Timezone Converter
 
 * [1 The Time Zone Converter 23](http://www.thetimezoneconverter.com/)
 * [2 World Time Buddy 6](http://www.worldtimebuddy.com/)
 * [3 Online Unix timestamp converter 0](http://coderstoolbox.net/unixtimestamp/)
 
-## EXTRAS
+### EXTRAS
 
 * [1 GitHub Student Developer Pack 123](https://education.github.com/pack)
 * [2 Eclipse 10](http://eclipse.org)
@@ -1271,7 +1271,7 @@
 * [4 Box2D 41](http://box2d.org/about/)
 * [5 Rant 65](https://github.com/TheBerkin/Rant)
 
-## UML
+### UML
 
 * [1 StarUML 198](http://staruml.io/)
 * [2 UML Design Tools and UML CASE tools for… 23](http://www.sparxsystems.com.au/products/ea/)
@@ -1283,7 +1283,7 @@
 * [8 Dia draws your structured diagrams 0](http://dia-installer.de/)
 * [9 UMLet 0](https://www.umlet.com/)
 
-## Trends
+### Trends
 
 * [1 Google Trends 88](https://www.google.com/trends/)
 * [2 ESA Essential Facts 2017 0](http://www.theesa.com/wp-content/uploads/2017/04/EF2017_FinalDigital.pdf)
@@ -1296,7 +1296,7 @@
 * [9 ESA Essential Facts 2005 0](http://www.scribd.com/doc/125495226/ESA-Essential-Facts-2005)
 * [10 ESA Essential Facts 2004 1](http://www.scribd.com/doc/125494009/ESA-Essential-Facts-2004)
 
-## Game Jams
+### Game Jams
 
 * [1 Ludum Dare Favorite 77](https://ldjam.com/)
 * [2 Global Game Jam® Favorite 53](http://globalgamejam.org)
@@ -1315,7 +1315,7 @@
 * [15 Indie Game Jams 0](http://indiegamejams.com)
 * [16 Extra Credits Game Jams 0](https://becausegamesmatter.com/game-jams)
 
-## Tutorials
+### Tutorials
 
 * [1 Unity Learn Favorite 112](https://unity3d.com/learn/tutorials)
 * [2 Steb's Design Mastermix Favorite 0](https://www.youtube.com/playlist?list=PL2pgszMfQj2avftclBCdHN25dHROMWei4)
@@ -1343,18 +1343,18 @@
 * [24 Kemo Jallow Godot tutorials 0](https://www.youtube.com/channel/UCvqdRkXwYQfx_2QWe2nFJXA?view_as=subscriber)
 * [25 FlippedNormals 0](https://www.youtube.com/channel/UCQQFz2LkJMoqSFTas-oozOw)
 
-## Landing Page
+### Landing Page
 
 * [1 Instapage 300](https://www.instapage.com)
 * [2 Wordpress Free Landing Pages Builder 3](https://es.wordpress.org/plugins/landing-pages-builder/)
 
-## Domain Names
+### Domain Names
 
 * [1 Namemesh 182](http://www.namemesh.com)
 * [2 Namevine 42](http://namevine.com/)
 * [3 name.com 0](https://www.name.com/)
 
-## Distribution
+### Distribution
 
 * [1 Steam 0](https://store.steampowered.com)
 * [2 itch.io Favorite 182](http://itch.io)
@@ -1371,7 +1371,7 @@
 * [13 Discord Nitro 0](https://discordapp.com/nitro)
 * [14 SIMMER.io 0](https://simmer.io/)
 
-## Voxels
+### Voxels
 
 * [1 Qubicle Favorite 309](http://www.minddesk.com/)
 * [2 SpriteStackStudio 0](https://spritestack.io/studio/)
@@ -1388,7 +1388,7 @@
 * [13 Sproxel 8](http://sproxel.blogspot.com.br)
 * [14 Blackflux 6](https://blackflux.com/index.php)
 
-## Game Art
+### Game Art
 
 * [1 Game Art Tricks 333](http://simonschreibt.de/game-art-tricks/)
 * [2 GDquest 112](https://www.youtube.com/c/Gdquest)
@@ -1398,7 +1398,7 @@
 * [6 Stock images for Artists 0](https://www.ca-stock.com/)
 * [7 Kenney 0](http://kenney.nl)
 
-## Ads
+### Ads
 
 * [1 Vungle 153](http://www.vungle.com)
 * [2 Unity Ads 82](https://unityads.unity3d.com/)
@@ -1413,7 +1413,7 @@
 * [11 In-Game Native Advertising 0](https://www.greedygame.com)
 * [12 Globalhop 0](https://globalhop.net)
 
-## Other resource sites
+### Other resource sites
 
 * [1 GitHub Magictools 153](https://github.com/ellisonleao/magictools)
 * [2 PixelProspector 72](http://www.pixelprospector.com/indie-resources/)
@@ -1432,7 +1432,7 @@
 * [15 Resources for game development on haxe 0](https://github.com/Dvergar/awesome-haxe-gamedev)
 * [16 Game developer resources at unlike kinds 0](https://unlikekinds.com/page/game-developer-resources)
 
-## Technical Studies
+### Technical Studies
 
 * [1 It's Nicky Case! THINGS YOU CAN PLAY 0](https://ncase.me/)
 * [2 Overwatch Environment, Textures and Poly Budgets 0](http://polycount.com/discussion/170394/technical-study-overwatch-image-heavy)
@@ -1445,7 +1445,7 @@
 * [9 GTA V - Graphics Study 0](http://www.adriancourreges.com/blog/2015/11/02/gta-v-graphics-study/)
 * [10 Supreme Commander - Graphics Study 0](http://www.adriancourreges.com/blog/2015/06/23/supreme-commander-graphics-study/)
 
-## Great Articles & Talks
+### Great Articles & Talks
 
 * [1 Juice it or lose it 47](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
 * [2 Finishing a Game 64](http://makegames.tumblr.com/post/1136623767/finishing-a-game)
@@ -1460,7 +1460,7 @@
 * [11 how to start building video games even if you don’t have any experience 0](https://medium.freecodecamp.org/from-zero-to-game-designer-how-to-start-building-video-games-even-if-you-dont-have-any-experience-5e2f9f45f4bb)
 * [12 3D Game Shaders For Beginners 0](https://github.com/lettier/3d-game-shaders-for-beginners)
 
-## HTML to mobile
+### HTML to mobile
 
 * [1 Tabris.js 83](https://tabrisjs.com/)
 * [2 Nativescript 38](https://www.nativescript.org/)
@@ -1472,7 +1472,7 @@
 * [8 AngularJS 0](https://angularjs.org)
 * [9 Joren 0](https://joren.io/)
 
-## Fun Tools
+### Fun Tools
 
 * [1 Alchemy 1.3k](http://al.chemy.org)
 * [2 Super Pixel Time 298](http://superpixeltime.johnnylml.com/)
@@ -1513,12 +1513,12 @@
 * [37 FontSprite by AdamStrange 0](https://adamstrange.itch.io/fontsprite)
 * [38 Deform by Keenan Woodall 0](https://keenanwoodall.itch.io/deform)
 
-## AI Resources
+### AI Resources
 
 * [1 A* Pathfinding Project 0](http://arongranberg.com/astar/)
 * [2 A Utility Theory Based AI for C# and Unity 0](https://github.com/ThelDoctor/CrystalAI)
 
-## Great itch.io pages
+### Great itch.io pages
 
 * [1 Bit Pit by voishark 0](http://logybit.itch.io/bitpit)
 * [2 Reap by Daniel Linssen 0](http://managore.itch.io/reap)
@@ -1535,6 +1535,6 @@
 * [13 Binary Stars by Pixelnest Studio 0](https://pixelnest.itch.io/steredenn)
 * [14 Haemo by Daniel Linssen 0](https://managore.itch.io/haemo)
 
-## Game Design & UI References
+### Game Design & UI References
 
 * [1 GamesWatch 0](https://gameswat.ch)
