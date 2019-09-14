@@ -42,7 +42,7 @@
 
 ### Spritesheet Tools
 
-1. [TexturePacker Favorite](http://www.codeandweb.com/texturepacker)
+1. [TexturePacker](http://www.codeandweb.com/texturepacker)
 2. [Aseprite Favorite](http://www.aseprite.org)
 3. [ShoeBox Favorite](http://renderhjs.net/shoebox)
 4. [GraphicsGale](http://www.humanbalance.net/gale/us)
