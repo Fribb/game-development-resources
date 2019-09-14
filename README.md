@@ -43,8 +43,8 @@
 ### Spritesheet Tools
 
 1. [TexturePacker](http://www.codeandweb.com/texturepacker)
-2. [Aseprite Favorite](http://www.aseprite.org)
-3. [ShoeBox Favorite](http://renderhjs.net/shoebox)
+2. [Aseprite](http://www.aseprite.org)
+3. [ShoeBox](http://renderhjs.net/shoebox)
 4. [GraphicsGale](http://www.humanbalance.net/gale/us)
 5. [libGDX Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer)
 6. [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer)
