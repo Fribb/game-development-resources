@@ -3,6 +3,7 @@
 ## Table of Contents
 
 * [Assets/Placeholders](https://github.com/Fribb/game-development-resources#assetsplaceholders)
+* [Spritesheet Tools](https://github.com/Fribb/game-development-resources#spritesheet-tools)
  
  ### Assets/Placeholders
  
@@ -41,20 +42,20 @@
 
 ### Spritesheet Tools
 
-* [1 TexturePacker Favorite 366](http://www.codeandweb.com/texturepacker)
-* [2 Aseprite Favorite 164](http://www.aseprite.org)
-* [3 ShoeBox Favorite 1.2k](http://renderhjs.net/shoebox)
-* [4 GraphicsGale 219](http://www.humanbalance.net/gale/us)
-* [5 libGDX Texture Packer 95](https://github.com/libgdx/libgdx/wiki/Texture-packer)
-* [6 Cheetah-Texture-Packer 77](https://github.com/scriptum/Cheetah-Texture-Packer)
-* [7 Piskel App 3](http://www.piskelapp.com)
-* [8 Pyxel Edit 6](http://pyxeledit.com)
-* [9 Imagesplitter 6](http://imagesplitter.net)
-* [10 darkFunction 2](http://darkfunction.com/editor/)
-* [11 Sprite Sheet Packer 0](https://spritesheetpacker.codeplex.com/)
-* [12 Leshy SpriteSheet Tool 0](https://www.leshylabs.com/apps/sstool/)
-* [13 Quadtastic by Moritz Neikes 0](https://25a0.itch.io/quadtastic)
-* [14 amakaseev/sprite-sheet-packer 0](https://github.com/amakaseev/sprite-sheet-packer)
+1. [TexturePacker Favorite](http://www.codeandweb.com/texturepacker)
+2. [Aseprite Favorite](http://www.aseprite.org)
+3. [ShoeBox Favorite](http://renderhjs.net/shoebox)
+4. [GraphicsGale](http://www.humanbalance.net/gale/us)
+5. [libGDX Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer)
+6. [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer)
+7. [Piskel App](http://www.piskelapp.com)
+8. [Pyxel Edit](http://pyxeledit.com)
+9. [Imagesplitter](http://imagesplitter.net)
+10. [darkFunction](http://darkfunction.com/editor/)
+11. [Sprite Sheet Packer](https://spritesheetpacker.codeplex.com/)
+12. [Leshy SpriteSheet Tool](https://www.leshylabs.com/apps/sstool/)
+13. [Quadtastic by Moritz Neikes](https://25a0.itch.io/quadtastic)
+14. [amakaseev/sprite-sheet-packer](https://github.com/amakaseev/sprite-sheet-packer)
 
 ### Icons
 
