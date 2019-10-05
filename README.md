@@ -4,6 +4,7 @@
 
 * [Assets/Placeholders](#assetsplaceholders)
 * [Spritesheet Tools](#spritesheet-tools)
+* [Icons](#icons)
  
  ### Assets/Placeholders
  
@@ -59,25 +60,25 @@
 
 ### Icons
 
-* [1 Game-Icons Set 1.8k](http://game-icons.net)
-* [2 iconmonstr 561](http://iconmonstr.com)
-* [3 NounProject 300](http://thenounproject.com)
-* [4 Iconizer 371](http://iconizer.net)
-* [5 Iconfinder 201](https://www.iconfinder.com)
-* [6 IcoFX 0](http://icofx.ro)
-* [7 famfamfam 154](http://www.famfamfam.com/lab/icons/)
-* [8 FindIcons 161](http://findicons.com)
-* [9 Flat Icon Maker 303](http://flaticons.net)
-* [10 Flaticon 46](http://www.flaticon.com)
-* [11 Free PSD icons 12](http://freebiesbug.com/psd-freebies/icons/)
-* [12 18,500 Free Icons 25](https://icons8.com/)
-* [13 Fontawesome 3](http://fontawesome.io/)
-* [14 Freepik 0](http://www.freepik.com)
-* [15 Craftpix 0](https://craftpix.net/categorys/free-icons-for-games/)
-* [16 Feather 0](https://feather.netlify.com/)
-* [17 Material Design Icons 0](https://materialdesignicons.com/)
-* [18 RPG Awesome 0](https://nagoshiashumari.github.io/Rpg-Awesome/)
-* [19 illustrio 0](https://illustrio.com/)
+* [Game-Icons Set](http://game-icons.net)
+* [iconmonstr](http://iconmonstr.com)
+* [NounProject](http://thenounproject.com)
+* [Iconizer](http://iconizer.net)
+* [Iconfinder](https://www.iconfinder.com)
+* [IcoFX](http://icofx.ro)
+* [famfamfam](http://www.famfamfam.com/lab/icons/)
+* [FindIcons](http://findicons.com)
+* [Flat Icon Maker](http://flaticons.net)
+* [Flaticon](http://www.flaticon.com)
+* [Free PSD icons](http://freebiesbug.com/psd-freebies/icons/)
+* [18,500 Free Icons](https://icons8.com/)
+* [Fontawesome](http://fontawesome.io/)
+* [Freepik](http://www.freepik.com)
+* [Craftpix](https://craftpix.net/categorys/free-icons-for-games/)
+* [Feather](https://feather.netlify.com/)
+* [Material Design Icons](https://materialdesignicons.com/)
+* [RPG Awesome](https://nagoshiashumari.github.io/Rpg-Awesome/)
+* [illustrio](https://illustrio.com/)
 
 ### Tree Generators
 
