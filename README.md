@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-* [Assets/Placeholders](https://github.com/Fribb/game-development-resources#assetsplaceholders)
-* [Spritesheet Tools](https://github.com/Fribb/game-development-resources#spritesheet-tools)
+* [Assets/Placeholders](#assetsplaceholders)
+* [Spritesheet Tools](#spritesheet-tools)
  
  ### Assets/Placeholders
  
