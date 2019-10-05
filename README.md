@@ -5,6 +5,8 @@
 * [Assets/Placeholders](#assetsplaceholders)
 * [Spritesheet Tools](#spritesheet-tools)
 * [Icons](#icons)
+* [Tree Generators](#tree-generators)
+* [Famous Game Sources](#famous-game-sources)
  
  ### Assets/Placeholders
  
@@ -60,41 +62,41 @@
 
 ### Icons
 
-* [Game-Icons Set](http://game-icons.net)
-* [iconmonstr](http://iconmonstr.com)
-* [NounProject](http://thenounproject.com)
-* [Iconizer](http://iconizer.net)
-* [Iconfinder](https://www.iconfinder.com)
-* [IcoFX](http://icofx.ro)
-* [famfamfam](http://www.famfamfam.com/lab/icons/)
-* [FindIcons](http://findicons.com)
-* [Flat Icon Maker](http://flaticons.net)
-* [Flaticon](http://www.flaticon.com)
-* [Free PSD icons](http://freebiesbug.com/psd-freebies/icons/)
-* [18,500 Free Icons](https://icons8.com/)
-* [Fontawesome](http://fontawesome.io/)
-* [Freepik](http://www.freepik.com)
-* [Craftpix](https://craftpix.net/categorys/free-icons-for-games/)
-* [Feather](https://feather.netlify.com/)
-* [Material Design Icons](https://materialdesignicons.com/)
-* [RPG Awesome](https://nagoshiashumari.github.io/Rpg-Awesome/)
-* [illustrio](https://illustrio.com/)
+1. [Game-Icons Set](http://game-icons.net)
+2. [iconmonstr](http://iconmonstr.com)
+3. [NounProject](http://thenounproject.com)
+4. [Iconizer](http://iconizer.net)
+5. [Iconfinder](https://www.iconfinder.com)
+6. [IcoFX](http://icofx.ro)
+7. [famfamfam](http://www.famfamfam.com/lab/icons/)
+8. [FindIcons](http://findicons.com)
+9. [Flat Icon Maker](http://flaticons.net)
+10. [Flaticon](http://www.flaticon.com)
+11. [Free PSD icons](http://freebiesbug.com/psd-freebies/icons/)
+12. [18,500 Free Icons](https://icons8.com/)
+13. [Fontawesome](http://fontawesome.io/)
+14. [Freepik](http://www.freepik.com)
+15. [Craftpix](https://craftpix.net/categorys/free-icons-for-games/)
+16. [Feather](https://feather.netlify.com/)
+17. [Material Design Icons](https://materialdesignicons.com/)
+18. [RPG Awesome](https://nagoshiashumari.github.io/Rpg-Awesome/)
+19. [illustrio](https://illustrio.com/)
 
 ### Tree Generators
 
-* [1 SpeedTree 707](http://www.speedtree.com/)
-* [2 Tree It 0](http://www.evolved-software.com/treeit/treeit)
+1. [SpeedTree](http://www.speedtree.com/)
+2. [Tree It](http://www.evolved-software.com/treeit/treeit)
 
 ### Famous Game Sources
 
-* [1 id Software Favorite 0](https://github.com/id-Software)
-* [2 DOOM Favorite 31](https://github.com/id-Software/DOOM)
-* [3 Duke Nukem 3D 13](https://3drealms.com/)
-* [4 Prince of Persia 19](https://github.com/jmechner/Prince-of-Persia-Apple-II)
-* [5 Sim City 45](https://github.com/simhacker/micropolis)
-* [6 Serious Engine 9](https://github.com/Croteam-official/Serious-Engine)
-* [7 Collection of computer game source code 0](https://archive.org/details/gamesourcecode)
-* [8 Video Game Preservation 0](https://github.com/videogamepreservation)
+1. [id Software](https://github.com/id-Software)
+2. [DOOM](https://github.com/id-Software/DOOM)
+3. [Duke Nukem 3D](https://3drealms.com/)
+4. [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II)
+5. [Sim City](https://github.com/simhacker/micropolis)
+6. [Serious Engine](https://github.com/Croteam-official/Serious-Engine)
+7. [Collection of computer game source code](https://archive.org/details/gamesourcecode)
+8. [Video Game Preservation](https://github.com/videogamepreservation)
 
 ### Bitmap Compression
 
