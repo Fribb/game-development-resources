@@ -7,6 +7,7 @@
 * [Icons](#icons)
 * [Tree Generators](#tree-generators)
 * [Famous Game Sources](#famous-game-sources)
+* [Bitmap Compression](#bitmap-compression)
  
  ### Assets/Placeholders
  
@@ -100,20 +101,20 @@
 
 ### Bitmap Compression
 
-* [1 PNGGauntlet 324](http://pnggauntlet.com)
-* [2 TinyPNG 133](https://tinypng.com)
-* [3 PunyPNG 66](http://punypng.com/)
-* [4 Compressor.io 39](https://compressor.io)
-* [5 Kraken.io 62](https://kraken.io/web-interface)
-* [6 smush.it! 29](http://www.imgopt.com/)
-* [7 PngOptimizer 26](http://psydk.org/pngoptimizer)
-* [8 OptiPNG Home Page 7](http://optipng.sourceforge.net/)
-* [9 Optimus.io 8](https://optimus.io/en/)
-* [10 ImageAlpha 1](https://pngmini.com/)
-* [11 SuperPNG photoshop plug-in 1](http://www.fnordware.com/superpng)
-* [12 Pngquant PNGoo 0](https://pngquant.org/)
-* [13 Bulk Resize Photos 0](http://bulkresizephotos.com/)
-* [14 Jpeg.io 0](https://www.jpeg.io/)
+1. [PNGGauntlet](http://pnggauntlet.com)
+2. [TinyPNG](https://tinypng.com)
+3. [PunyPNG](http://punypng.com/)
+4. [Compressor.io](https://compressor.io)
+5. [Kraken.io](https://kraken.io/web-interface)
+6. [smush.it!](http://www.imgopt.com/)
+7. [PngOptimizer](http://psydk.org/pngoptimizer)
+8. [OptiPNG Home Page](http://optipng.sourceforge.net/)
+9. [Optimus.io](https://optimus.io/en/)
+10. [ImageAlpha](https://pngmini.com/)
+11. [SuperPNG photoshop plug-in](http://www.fnordware.com/superpng)
+12. [Pngquant PNGoo](https://pngquant.org/)
+13. [Bulk Resize Photos](http://bulkresizephotos.com/)
+14. [Jpeg.io](https://www.jpeg.io/)
 
 ### Free Pictures
 
