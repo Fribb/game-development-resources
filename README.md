@@ -8,6 +8,7 @@
 * [Tree Generators](#tree-generators)
 * [Famous Game Sources](#famous-game-sources)
 * [Bitmap Compression](#bitmap-compression)
+* [Free Pictures](#free-pictures)
  
  ### Assets/Placeholders
  
@@ -118,23 +119,23 @@
 
 ### Free Pictures
 
-* [1 Public Domain Pictures 790](http://www.publicdomainpictures.net/?jazyk=EN)
-* [2 Pexels 94](http://pexels.com)
-* [3 StockSnap.io 0](https://stocksnap.io/)
-* [4 Unsplash 0](https://unsplash.com/)
-* [5 Gratisography 0](http://gratisography.com)
-* [6 Morguefile 224](http://www.morguefile.com)
-* [7 Pond 5 - Public Domain 143](http://www.pond5.com/free)
-* [8 NYPL Public Domain Digital Collection 17](http://digitalcollections.nypl.org/)
-* [9 Internet Archive 81](https://archive.org)
-* [10 Wikimedia Commons 56](http://commons.wikimedia.org/wiki/Main_Page)
-* [11 Google Advanced Search 74](http://www.google.com/advanced_search)
-* [12 Pixabay 127](http://pixabay.com)
-* [13 The Met Public Domain Collection 0](http://metmuseum.org/art/collection)
-* [14 NASA Image and Video Library 0](https://images.nasa.gov/#/)
-* [15 FreeImages (was sxc.hu) 0](http://www.freeimages.com/)
-* [16 Free Stock Photos 0](https://burst.shopify.com/)
-* [17 Moose Photos 0](http://photos.icons8.com)
+1. [Public Domain Pictures](http://www.publicdomainpictures.net/?jazyk=EN)
+2. [Pexels](http://pexels.com)
+3. [StockSnap.io](https://stocksnap.io/)
+4. [Unsplash](https://unsplash.com/)
+5. [Gratisography](http://gratisography.com)
+6. [Morguefile](http://www.morguefile.com)
+7. [Pond 5 - Public Domain](http://www.pond5.com/free)
+8. [NYPL Public Domain Digital Collection](http://digitalcollections.nypl.org/)
+9. [Internet Archive](https://archive.org)
+10. [Wikimedia Commons](http://commons.wikimedia.org/wiki/Main_Page)
+11. [Google Advanced Search](http://www.google.com/advanced_search)
+12. [Pixabay](http://pixabay.com)
+13. [The Met Public Domain Collection](http://metmuseum.org/art/collection)
+14. [NASA Image and Video Library](https://images.nasa.gov/#/)
+15. [FreeImages (was sxc.hu)](http://www.freeimages.com/)
+16. [Free Stock Photos](https://burst.shopify.com/)
+17. [Moose Photos](http://photos.icons8.com)
 
 ### Tile Editors
 
