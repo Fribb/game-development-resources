@@ -140,15 +140,15 @@
 
 ### Tile Editors
 
-1. Tiled Map Editor](http://www.mapeditor.org)
-2. Tiled2Unity](http://www.seanba.com/tiled2unity)
-3. 2D Tile Map Level Editor for Unity](https://www.assetstore.unity3d.com/en/#!/content/90420)
-4. AutoTileGen](http://autotilegen.com)
-5. OGMO EDITOR](http://www.ogmoeditor.com)
-6. Tile Studio](http://tilestudio.sourceforge.net/)
-7. Crocotile 3D](http://www.crocotile3d.com/)
-8. CastleDB](http://castledb.org/)
-9. Tilemap Tool](https://assets.idevgames.co.uk/product/tilemap-tool/)
+1. [Tiled Map Editor](http://www.mapeditor.org)
+2. [Tiled2Unity](http://www.seanba.com/tiled2unity)
+3. [2D Tile Map Level Editor for Unity](https://www.assetstore.unity3d.com/en/#!/content/90420)
+4. [AutoTileGen](http://autotilegen.com)
+5. [OGMO EDITOR](http://www.ogmoeditor.com)
+6. [Tile Studio](http://tilestudio.sourceforge.net/)
+7. [Crocotile 3D](http://www.crocotile3d.com/)
+8. [CastleDB](http://castledb.org/)
+9. [Tilemap Tool](https://assets.idevgames.co.uk/product/tilemap-tool/)
 
 ### Character Generators
 
