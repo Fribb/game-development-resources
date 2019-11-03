@@ -9,6 +9,7 @@
 * [Famous Game Sources](#famous-game-sources)
 * [Bitmap Compression](#bitmap-compression)
 * [Free Pictures](#free-pictures)
+* [Tile Editors](#tile-editors)
  
  ### Assets/Placeholders
  
@@ -139,15 +140,15 @@
 
 ### Tile Editors
 
-* [1 Tiled Map Editor Favorite 731](http://www.mapeditor.org)
-* [2 Tiled2Unity Favorite 0](http://www.seanba.com/tiled2unity)
-* [3 2D Tile Map Level Editor for Unity 0](https://www.assetstore.unity3d.com/en/#!/content/90420)
-* [4 AutoTileGen 318](http://autotilegen.com)
-* [5 OGMO EDITOR 72](http://www.ogmoeditor.com)
-* [6 Tile Studio 140](http://tilestudio.sourceforge.net/)
-* [7 Crocotile 3D 66](http://www.crocotile3d.com/)
-* [8 CastleDB 0](http://castledb.org/)
-* [9 Tilemap Tool 0](https://assets.idevgames.co.uk/product/tilemap-tool/)
+1. Tiled Map Editor](http://www.mapeditor.org)
+2. Tiled2Unity](http://www.seanba.com/tiled2unity)
+3. 2D Tile Map Level Editor for Unity](https://www.assetstore.unity3d.com/en/#!/content/90420)
+4. AutoTileGen](http://autotilegen.com)
+5. OGMO EDITOR](http://www.ogmoeditor.com)
+6. Tile Studio](http://tilestudio.sourceforge.net/)
+7. Crocotile 3D](http://www.crocotile3d.com/)
+8. CastleDB](http://castledb.org/)
+9. Tilemap Tool](https://assets.idevgames.co.uk/product/tilemap-tool/)
 
 ### Character Generators
 
