@@ -154,30 +154,30 @@
 
 ### Character Generators
 
-1 [Famitsu Chibi](http://www.famitsu.com/freegame/tool/chibi/index1.html)
-2 [Loose Leaf](http://www.geocities.jp/kurororo4/looseleaf)
-3 [Charas](http://charas-project.net/index.php?lang=en)
-4 [Universal LPC Sprite Sheet Character…](http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator)
-5 [Makehuman](http://makehuman.org)
-6 [DAZ 3D](http://www.daz3d.com)
-7 [donjon RPG Tools](http://donjon.bin.sh/)
-8 [Crearunavatar](http://www.crearunavatar.com/)
-9 [Avatar Maker NA by aamatniekss](https://aamatniekss.itch.io/avatar-maker-na)
-10 [Manuel Bastioni official page](http://www.manuelbastioni.com/index.php)
-11 [Reallusion](https://www.reallusion.com/character-creator/)
+1. [Famitsu Chibi](http://www.famitsu.com/freegame/tool/chibi/index1.html)
+2. [Loose Leaf](http://www.geocities.jp/kurororo4/looseleaf)
+3. [Charas](http://charas-project.net/index.php?lang=en)
+4. [Universal LPC Sprite Sheet Character…](http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator)
+5. [Makehuman](http://makehuman.org)
+6. [DAZ 3D](http://www.daz3d.com)
+7. [donjon RPG Tools](http://donjon.bin.sh/)
+8. [Crearunavatar](http://www.crearunavatar.com/)
+9. [Avatar Maker NA by aamatniekss](https://aamatniekss.itch.io/avatar-maker-na)
+10. [Manuel Bastioni official page](http://www.manuelbastioni.com/index.php)
+11. [Reallusion](https://www.reallusion.com/character-creator/)
 
 ### RPG Mappers
 
-1 [Dave's Mapper](http://davesmapper.com/)
-2 [Dungeon Crafter III](http://dungeon-crafter-iii.software.informer.com/)
-3 [Wonderdraft](https://www.wonderdraft.net/)
-4 [Tiled Map Editor](http://www.mapeditor.org)
-5 [donjon RPG Tools](http://donjon.bin.sh/)
-6 [RPTools - MapTool](http://www.rptools.net/toolbox/maptool/)
-7 [Grid Cartographer](http://www.davidwaltersdevelopment.com/tools/gridcart/)
-8 [Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator)
-9 [Fantasy map generator](https://github.com/mewo2/terrain)
-10 [Grid Cartographer](http://gridcartographer.com/)
+1. [Dave's Mapper](http://davesmapper.com/)
+2. [Dungeon Crafter III](http://dungeon-crafter-iii.software.informer.com/)
+3. [Wonderdraft](https://www.wonderdraft.net/)
+4. [Tiled Map Editor](http://www.mapeditor.org)
+5. [donjon RPG Tools](http://donjon.bin.sh/)
+6. [RPTools - MapTool](http://www.rptools.net/toolbox/maptool/)
+7. [Grid Cartographer](http://www.davidwaltersdevelopment.com/tools/gridcart/)
+8. [Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator)
+9. [Fantasy map generator](https://github.com/mewo2/terrain)
+10. [Grid Cartographer](http://gridcartographer.com/)
 
 ### 2D Normal Mapping
 
