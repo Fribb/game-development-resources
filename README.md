@@ -1,3 +1,10 @@
+# Archival Notice:
+
+I created this project years ago as a form to preserve the accumulated information when the source, https://game-development.zeef.com/david.arcila, was shut down.
+But over the years, people seem to find this Project and think it is actively maintained. While I like to see pull requests, I don't really have a way to verify those things.
+
+Because of that, I have archived the project. If you want to keep expanding the project, fork it.
+
 # game-development-resources
 
 ## Table of Contents
