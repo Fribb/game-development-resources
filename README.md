@@ -281,6 +281,7 @@
 3. [SpriteIlluminator](https://www.codeandweb.com/spriteilluminator)
 4. [BriteSprite](https://www.assetstore.unity3d.com/en/#!/content/13823)
 5. [Laigter by azagaya](https://azagaya.itch.io/laigter)
+6. [Normal Map Bench](https://normalmapbench.com/) - Free browser-based normal map generator with live strength, smoothing, edge and lighting controls (OpenGL & DirectX conventions)
 
 ### Vectors
 
